@@ -84,7 +84,7 @@ Major frameworks/libraries used to bootstrap the project.
 
 1. Clone the repo
 
-2. Open Project in Unreal
+2. Open Project in Unity
 
 3. Play the Project inside Unity or Make a Build
 
