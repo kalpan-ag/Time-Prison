@@ -30,7 +30,7 @@
     A 2D mystical platformer where players are trying to escape a labyrinth. The game's physics are intentionally deceptive, requiring players to fail and learn from their mistakes to progress through the levels. The level design focuses on teaching players through frustration, with obstacles designed to deceive and surprise players with increasing difficulty.
     <br />
     <div align="center">
-    <a href="https://www.youtube.com/embed/Tpz537jXkXo?autoplay=1&mute=1" target="_blank">Trailer</a>
+    <a href="ttps://www.youtube.com/embed/v66KK5Khpic" target="_blank">Trailer</a>
     </div>
   </p>
 </div>
