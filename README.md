@@ -1,45 +1,105 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
 
----
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+<div align="center">
+    <img src="Title.jpg">
+</div>
 
-## Edit a file
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">Time Prison</h3>
+  <p align="justify">
+    A 2D mystical platformer where players are trying to escape a labyrinth. The game's physics are intentionally deceptive, requiring players to fail and learn from their mistakes to progress through the levels. The level design focuses on teaching players through frustration, with obstacles designed to deceive and surprise players with increasing difficulty.
+    <br />
+    <div align="center">
+    <a href="https://www.youtube.com/embed/Tpz537jXkXo?autoplay=1&mute=1" target="_blank">Trailer</a>
+    </div>
+  </p>
+</div>
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
 
----
 
-## Create a file
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Next, you’ll add a new file to this repository.
+The gameplay of Time Prison is based on trial and error, where the player needs to fail multiple times to understand the twisted physics and escape the labyrinth. The game has three checkpoints, and the obstacles have been designed to deceive the player based on their prior knowledge of 2D platformers. The obstacles are placed in such a way that the difficulty level increases as the player progresses, and they are challenged throughout the course of the game.
 
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
+The level design of Time Prison is made in a way to teach the players something they can use in the next try. The obstacles have been designed to surprise and possibly frustrate the player. Each obstacle is designed in such a way that the player is deceived by looking at the obstacle, even though they have surpassed a few obstacles. The obstacles have been placed in a way that the player's knowledge of the previous obstacle is taken into consideration, and they are deceived based on that knowledge. The level design is meant to increase the difficulty level as the player progresses and provide a challenging experience.
 
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
+Project Goal: The goal of Time Prison is to create a 2D mystical platformer game with deceptive physics and challenging obstacles. The game is designed to provide a fun and engaging experience to the players and increase the difficulty level as the player progresses.
 
----
+### Built With
 
-## Clone a repository
+Major frameworks/libraries used to bootstrap the project.
 
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
+* Unity 2021.7
 
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
+### Prerequisites
 
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+* Windows 10+
+* Unity 2021+
+
+
+### Installation
+
+1. Clone the repo
+
+2. Open Project in Unreal
+
+3. Play the Project inside Unity or Make a Build
+
+<!-- CONTACT -->
+## Contact
+
+* Kalpan Agrawal - agrawal.k@northeastern.edu
+* [![LinkedIn][linkedin-shield]][linkedin-url]
+* [![Portfolio][portfolioIcon-url]][portfolio-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/kp-ag/
+[portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
+[portfolio-url]: https://kalpan-ag.github.io/
+
+
